@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(33, 33, 33);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  margin: 1rem;
+  width: 10rem;
+  height: 4rem;
+  color: rgb(235, 0, 252);
+  background-color: rgb(0, 255, 255);
+  border: none;
+  border-radius: 13px;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  margin-top: 2rem;
+  ;
+}
+
+p {
+  color: rgb(244, 118, 236);
+  margin-top: 2rem;
+  ;
+}
+
+input {
+  margin-top: 2rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: rgba(255, 255, 255, 0.095);
+  border: none;
+  color: rgb(244, 118, 236);
+  border-radius: 3px;
+
+}
+
+h2 {
+  color: rgb(244, 118, 236);
+  margin-top: 1rem;
+}
+
+ul {
+  color: rgb(255, 255, 255);
+  margin-top: 1rem;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.022);
+  width: 10rem;
+}
+
+li i {
+  font-size: 12px;
+  color: gray;
+  cursor: pointer;
+  background-color: transparent;
+}
