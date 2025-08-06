@@ -12,7 +12,8 @@ Add, complete, and delete tasks easily.
 
 ## Live Demo
 
-[View here](https://AnuragGhutke.github.io/todo-app/)
+[View here](https://anuragghutke.github.io/simple-todo-app/)
+
 
 ## Author
 
